@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lezadeyzel
+- 👀 I’m interested in UX design and front-end web development.
+- 🌱 I’m currently learning UX and UI design, HTML, CSS and Javascript.
+- 📫 Find me on LinkedIn (www.linkedin.com/in/lezadeyzel) and Twitter (@lezadeyzel)
