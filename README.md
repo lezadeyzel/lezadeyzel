@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @lezadeyzel
-- 👀 I’m interested in UX design and front-end web development.
-- 🌱 I’m currently learning UX and UI design, HTML, CSS and Javascript.
+- 👀 I’m interested in UX design, research, and writing; and front-end web development.
+- 🌱 Currently, I am immersing myself in learning UX design, research, and writing. I have completed the Udacity User Experience Nanodegree, UX Writers Collective UX Writing Fundamentals course. I am a member of the Interaction Design Foundation. I have completed these courses through IDF: Becoming a UX Designer From Scratch, Data-Driven Design: Quantitative Research for UX, and User Research: Methods and Best Practices courses. I am also learning front-end web development (HTML, CSS, and JavaScript).
+- ♥️ I value quality, diversity, integrity and above all else: kindness.
+- 💻 I am an infinitely curious creator - I make for use and for fun - to learn and share with others. I listen to what others need and create useful and usable designs that align with what they imagined and more. I believe in the power of technology to create communities where all individuals can learn and grow.
+- 🎉 I am a creative problem-solver - I rely on information and reflection to solve problems.
+- 👩‍💻 I have spent most of my career listening to others, empathising, researching, and creating digital products to support students in a higher education context. I'm excited to bring these skills to user experience design, research, and writing and to partner with organisations that support people to grow and learn. In a way, I have been applying UX principles my whole career. My passion for research and creating solutions that work inspired me to complete an MSc in Psychology (Research Consultation). I have worked in diverse teams, and the last 18 months of my previous job was in a remote context where I could be relied on to complete my work and innovate.
+- 🧠 My interests include applying psychological principles to UX design and research, design thinking and behaviourial economics. 
 - 📫 Find me on LinkedIn (www.linkedin.com/in/lezadeyzel) and Twitter (@lezadeyzel)
